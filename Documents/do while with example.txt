@@ -1,0 +1,6 @@
+do while with example
+with if conditions included the example should not be in java t point
+
+case statement on situation if it is number table or calculator
+
+if statement where wee need to include arithmetic operators & logical operators with these need to explain with 4 variables

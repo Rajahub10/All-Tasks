@@ -1,0 +1,58 @@
+do while with example
+with if conditions included the example should not be in java t point
+
+case statement on situation if it is number table or calculator
+
+if statement where wee need to include arithmetic operators & logical operators with these need to explain with 4 variables
+
+
+
+
+
+
+* Do While loop
+
+
+#!/bin/bash
+
+num=1
+while [ $num -le 10 ]; do
+	echo $(($num * 3))
+	num=$(($num+1))
+done
+--------------------------------
+
+#!/bin/bash
+number=0
+while [ $number -lt 6 ]
+do
+
+# Increment the value of number by 1
+(( number++ ))
+
+if [[ $number == 2 ]]
+then
+continue
+fi
+echo "Iteration number: $number"
+done
+..........................................
+
+#!/bin/bash
+
+# Read four variables
+read -p "Enter first number: " a
+read -p "Enter second number: " b
+read -p "Enter third number: " c
+read -p "Enter fourth number: " d
+
+# Example of arithmetic and logical operations
+if (( (a + b > c) && (c - d < a) || (b * d == c) )); then
+    echo "The condition is true."
+else
+    echo "The condition is false."
+fi
+
+==========================================
+
+

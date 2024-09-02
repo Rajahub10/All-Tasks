@@ -1,0 +1,35 @@
+Self intro:
+===========
+Hi this is XXXXX working as DevOps Engineer for XXXX company
+for last XX Years.
+Currently i have been working for XXXX client where our team is managing 
+2 applications.
+As a DevOps engineer i make sure the environment is clean and running.
+I have worked on various DevOps Tools like Git, GitHub, Jenkins, maven, Ansible, Docker, Terraform and Kubernetes for orchestration,
+Aws cloud and physical Data Centers.
+
+In AWS i have worked on various services like ec2,s3,route53,application load
+balancer, VPC, cloud watch, cloud trial, elastic container service and elastic container registry.
+
+
+Roles and Responsibilities:
+===========================
+we worked along with development teams for next releases, where our team is responsible for UAT and PROD releases.
+We have weekly release and also flex release which will happen for every 2 or 3 months.
+If we have any monitoring alerts then i will be working on that alerts.
+Managing Jenkins pipelines and other infrastructure.
+working on patching activities along with Linux team for every quarter
+to make sure the kernels are updated, our team is responsible for
+pre patching and post patching activities.
+We provide 24/7 support means PagerDuty if high priority tickets then will
+get a call on mobile and will look into that issue.
+
+
+
+
+docker pull sabair0509/hiring-app:36
+
+docker pull sabair0509/hiring-app:36
+docker container run -itd -p 8080:8080 sabair0509/hiring-app:36
+
+Open browser and access: localhost:8080/hiring
